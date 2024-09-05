@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime for bishal 
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** status page for bishal."
   introMessage: This is status page powered by bishal 
   navbar:
     - title: Status
