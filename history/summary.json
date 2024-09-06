@@ -4,18 +4,20 @@
     "url": "https://www.gpkmc.edu.np",
     "icon": "https://icons.duckduckgo.com/ip3/www.gpkmc.edu.np.ico",
     "slug": "gpkmc-college",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1980,
-    "timeDay": 1980,
+    "timeDay": 1442,
     "timeWeek": 1980,
     "timeMonth": 1980,
     "timeYear": 1980,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   },
   {
     "name": "bishal",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 174,
+    "timeDay": 187,
     "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 174,
