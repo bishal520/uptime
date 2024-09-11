@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gpkmc.edu.np.ico",
     "slug": "gpkmc-college",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "97.90%",
-    "time": 2481,
-    "timeDay": 1554,
-    "timeWeek": 2481,
-    "timeMonth": 2481,
-    "timeYear": 2481,
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
+    "time": 2400,
+    "timeDay": 1592,
+    "timeWeek": 2400,
+    "timeMonth": 2400,
+    "timeYear": 2400,
     "dailyMinutesDown": {
       "2024-09-06": 143
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 145,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 184,
+    "timeDay": 144,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   }
 ]
