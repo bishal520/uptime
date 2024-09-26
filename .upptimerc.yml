@@ -7,7 +7,7 @@ sites:
     url: https://www.gpkmc.edu.np
   - name: bishal
     url: https://www.bishalluitel.com.np
-   - name: pashupatitimes
+  - name: pashupatitimes
     url: https://www.pashupatitimes.com
   
 status-website:
