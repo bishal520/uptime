@@ -9,6 +9,10 @@ sites:
     url: https://www.bishalluitel.com.np
   - name: pashupatitimes
     url: https://www.pashupatitimes.com
+  - name: Minecraft np azerith
+    check: "tcp-ping"
+    url: 15.235.180.231
+    port: 25565
   
 status-website:
   theme: dark
