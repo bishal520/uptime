@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1902,
-    "timeDay": 1283,
-    "timeWeek": 1604,
-    "timeMonth": 1736,
-    "timeYear": 1902,
+    "time": 1984,
+    "timeDay": 5762,
+    "timeWeek": 2201,
+    "timeMonth": 1861,
+    "timeYear": 1984,
     "dailyMinutesDown": {
       "2024-09-06": 143
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 129,
-    "timeWeek": 165,
+    "timeDay": 146,
+    "timeWeek": 169,
     "timeMonth": 164,
     "timeYear": 169,
     "dailyMinutesDown": {}
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pashupatitimes.com.ico",
     "slug": "pashupatitimes",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.59%",
+    "uptimeDay": "57.48%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.59%",
     "time": 961,
-    "timeDay": 913,
-    "timeWeek": 950,
+    "timeDay": 0,
+    "timeWeek": 948,
     "timeMonth": 961,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-14": 44,
+      "2024-10-13": 569
     }
   },
   {
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 230,
-    "timeWeek": 215,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 213,
+    "timeDay": 223,
+    "timeWeek": 217,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   }
 ]
