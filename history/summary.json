@@ -63,19 +63,19 @@
     "url": "https://www.fcubecinemas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fcubecinemas.com.ico",
     "slug": "fcube",
-    "status": "down",
-    "uptime": "52.74%",
-    "uptimeDay": "52.74%",
-    "uptimeWeek": "52.74%",
-    "uptimeMonth": "52.74%",
-    "uptimeYear": "52.74%",
-    "time": 9240,
-    "timeDay": 9240,
-    "timeWeek": 9240,
-    "timeMonth": 9240,
-    "timeYear": 9240,
+    "status": "up",
+    "uptime": "51.16%",
+    "uptimeDay": "51.16%",
+    "uptimeWeek": "51.16%",
+    "uptimeMonth": "51.16%",
+    "uptimeYear": "51.16%",
+    "time": 9683,
+    "timeDay": 9683,
+    "timeWeek": 9683,
+    "timeMonth": 9683,
+    "timeYear": 9683,
     "dailyMinutesDown": {
-      "2024-10-17": 372
+      "2024-10-17": 396
     }
   },
   {
