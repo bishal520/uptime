@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pashupatitimes.com.ico",
     "slug": "pashupatitimes",
     "status": "up",
-    "uptime": "97.13%",
+    "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.26%",
-    "uptimeYear": "97.13%",
+    "uptimeYear": "97.14%",
     "time": 2552,
     "timeDay": 3772,
     "timeWeek": 3700,
@@ -64,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fcubecinemas.com.ico",
     "slug": "fcube",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "96.36%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
     "time": 7087,
     "timeDay": 5871,
     "timeWeek": 5073,
@@ -87,7 +87,7 @@
     "url": "15.235.180.231",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-np-azerith",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -98,6 +98,8 @@
     "timeWeek": 195,
     "timeMonth": 210,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   }
 ]
