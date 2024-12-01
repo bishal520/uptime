@@ -4,9 +4,9 @@
     "url": "https://www.gpkmc.edu.np",
     "icon": "https://icons.duckduckgo.com/ip3/www.gpkmc.edu.np.ico",
     "slug": "gpkmc-college",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 2192,
     "timeYear": 2002,
     "dailyMinutesDown": {
+      "2024-12-01": 0,
       "2024-09-06": 143
     }
   },
