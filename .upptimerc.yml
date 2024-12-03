@@ -11,7 +11,7 @@ sites:
     url: https://www.pashupatitimes.com
   - name: fcube
     url: https://www.fcubecinemas.com/
-  - name: fcube
+  - name: project
     url: https://project.bishalluitel.com.np/
   - name: Minecraft np azerith
     check: "tcp-ping"
