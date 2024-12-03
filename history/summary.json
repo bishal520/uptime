@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 2002,
-    "timeDay": 1968,
-    "timeWeek": 2631,
-    "timeMonth": 2188,
-    "timeYear": 2002,
+    "time": 2006,
+    "timeDay": 2137,
+    "timeWeek": 2620,
+    "timeMonth": 2196,
+    "timeYear": 2006,
     "dailyMinutesDown": {
       "2024-09-06": 143
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 158,
-    "timeWeek": 174,
+    "timeDay": 166,
+    "timeWeek": 175,
     "timeMonth": 181,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1755,
-    "timeDay": 882,
-    "timeWeek": 830,
-    "timeMonth": 950,
-    "timeYear": 1755,
+    "time": 1743,
+    "timeDay": 828,
+    "timeWeek": 822,
+    "timeMonth": 944,
+    "timeYear": 1743,
     "dailyMinutesDown": {
       "2024-11-05": 36
     }
@@ -68,34 +68,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 5478,
-    "timeDay": 6348,
-    "timeWeek": 3840,
-    "timeMonth": 3787,
-    "timeYear": 5478,
+    "time": 5435,
+    "timeDay": 5371,
+    "timeWeek": 3732,
+    "timeMonth": 3750,
+    "timeYear": 5435,
     "dailyMinutesDown": {
       "2024-10-17": 24
     }
   },
   {
-    "name": "fcube",
+    "name": "project",
     "url": "https://project.bishalluitel.com.np/",
     "icon": "https://icons.duckduckgo.com/ip3/project.bishalluitel.com.np.ico",
-    "slug": "fcube",
+    "slug": "project",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 5478,
-    "timeDay": 6348,
-    "timeWeek": 3840,
-    "timeMonth": 3787,
-    "timeYear": 5478,
-    "dailyMinutesDown": {
-      "2024-10-17": 24
-    }
+    "uptimeYear": "100.00%",
+    "time": 530,
+    "timeDay": 530,
+    "timeWeek": 530,
+    "timeMonth": 530,
+    "timeYear": 530,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minecraft np azerith",
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 208,
+    "timeDay": 214,
     "timeWeek": 222,
-    "timeMonth": 209,
+    "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {}
   }
