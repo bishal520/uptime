@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1998,
-    "timeDay": 1497,
-    "timeWeek": 2648,
-    "timeMonth": 2181,
-    "timeYear": 1998,
+    "time": 2002,
+    "timeDay": 1968,
+    "timeWeek": 2631,
+    "timeMonth": 2188,
+    "timeYear": 2002,
     "dailyMinutesDown": {
       "2024-09-06": 143
     }
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 138,
+    "timeDay": 158,
     "timeWeek": 174,
     "timeMonth": 181,
     "timeYear": 174,
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 1763,
-    "timeDay": 602,
-    "timeWeek": 801,
-    "timeMonth": 945,
-    "timeYear": 1763,
+    "time": 1755,
+    "timeDay": 882,
+    "timeWeek": 830,
+    "timeMonth": 950,
+    "timeYear": 1755,
     "dailyMinutesDown": {
       "2024-11-05": 36
     }
@@ -68,11 +68,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 5392,
-    "timeDay": 2230,
-    "timeWeek": 2926,
-    "timeMonth": 3507,
-    "timeYear": 5392,
+    "time": 5478,
+    "timeDay": 6348,
+    "timeWeek": 3840,
+    "timeMonth": 3787,
+    "timeYear": 5478,
+    "dailyMinutesDown": {
+      "2024-10-17": 24
+    }
+  },
+  {
+    "name": "fcube",
+    "url": "https://project.bishalluitel.com.np/",
+    "icon": "https://icons.duckduckgo.com/ip3/project.bishalluitel.com.np.ico",
+    "slug": "fcube",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
+    "time": 5478,
+    "timeDay": 6348,
+    "timeWeek": 3840,
+    "timeMonth": 3787,
+    "timeYear": 5478,
     "dailyMinutesDown": {
       "2024-10-17": 24
     }
@@ -88,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 185,
-    "timeWeek": 220,
-    "timeMonth": 207,
-    "timeYear": 209,
+    "time": 210,
+    "timeDay": 208,
+    "timeWeek": 222,
+    "timeMonth": 209,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
