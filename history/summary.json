@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gpkmc.edu.np.ico",
     "slug": "gpkmc-college",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1994,
-    "timeDay": 1444,
-    "timeWeek": 1913,
-    "timeMonth": 2148,
-    "timeYear": 1994,
+    "uptimeYear": "99.90%",
+    "time": 1997,
+    "timeDay": 2341,
+    "timeWeek": 1928,
+    "timeMonth": 2151,
+    "timeYear": 1997,
     "dailyMinutesDown": {
       "2024-09-06": 143
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 124,
-    "timeWeek": 175,
-    "timeMonth": 181,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1678,
-    "timeDay": 537,
-    "timeWeek": 700,
-    "timeMonth": 721,
-    "timeYear": 1678,
+    "time": 1667,
+    "timeDay": 785,
+    "timeWeek": 692,
+    "timeMonth": 720,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2024-11-05": 36
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 6053,
-    "timeDay": 20550,
-    "timeWeek": 9785,
+    "time": 6005,
+    "timeDay": 2315,
+    "timeWeek": 9798,
     "timeMonth": 5292,
-    "timeYear": 6053,
+    "timeYear": 6005,
     "dailyMinutesDown": {
       "2024-10-17": 24
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 348,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "time": 457,
+    "timeDay": 580,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 197,
+    "timeDay": 224,
     "timeWeek": 206,
-    "timeMonth": 213,
+    "timeMonth": 214,
     "timeYear": 209,
     "dailyMinutesDown": {}
   }
