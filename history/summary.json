@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gpkmc.edu.np.ico",
     "slug": "gpkmc-college",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 1975,
     "timeDay": 1453,
     "timeWeek": 1733,
@@ -44,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pashupatitimes.com.ico",
     "slug": "pashupatitimes",
     "status": "down",
-    "uptime": "80.83%",
+    "uptime": "80.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.31%",
-    "uptimeYear": "80.83%",
+    "uptimeMonth": "40.16%",
+    "uptimeYear": "80.26%",
     "time": 1667,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 777,
     "timeYear": 1667,
     "dailyMinutesDown": {
-      "2024-12-27": 42,
+      "2024-12-27": 983,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -120,9 +120,9 @@
     "url": "as.azerithmc.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-np-azerith",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,6 +131,8 @@
     "timeWeek": 207,
     "timeMonth": 213,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-27": 0
+    }
   }
 ]
